@@ -1,0 +1,3 @@
+requests>=2.31.0
+replicate>=0.22.0
+pathlib>=1.0.1
