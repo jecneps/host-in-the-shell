@@ -1,0 +1,1 @@
+Your task is to reformat the following standup comedy transcript into pairs of [Joke Topic, Joke Text]. Remove any finishing statements or lines referencing the end of the set or introducing the next comic. Each joke should be separated by a newline and the joke topic and text should be separated by a pipe (|) character.

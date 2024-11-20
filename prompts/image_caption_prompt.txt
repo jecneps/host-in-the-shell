@@ -1,0 +1,6 @@
+Write a humorous caption for the image at the URL below in the comedic style of the following jokes:
+
+Image URL: {image_url}
+
+Jokes:
+{jokes}

@@ -1,0 +1,4 @@
+Write a single original joke in the style of the comedian from the following jokes. Don't duplicate any of the topics or punchlines.
+
+Jokes:
+{jokes}

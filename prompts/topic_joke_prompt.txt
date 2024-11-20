@@ -1,0 +1,4 @@
+Write a single joke in the style of the comedian from the following jokes about the topic: {topic}
+
+Jokes:
+{jokes}

@@ -1,0 +1,4 @@
+Write a 1 minute standup comedy set with 4-5 original jokes in the style of the comedian who performed the following material. Use all new topics and punchlines.
+
+Jokes:
+{jokes}
