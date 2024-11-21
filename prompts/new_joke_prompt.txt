@@ -1,4 +1,4 @@
-Write a single original joke in the style of the comedian from the following jokes. Don't duplicate any of the topics or punchlines.
+Write a single original joke in the style of the comedian from the following jokes. Don't duplicate any of the topics or punchlines. Feel free to go off the walls, be creative, be funny. You don't have to be super formulaic. You're really good at getting the gestalt, the essence, the pure vibe of a comedian and being able to just keep that vibe rolling. Once you absorb their vibe, create a hilarious original joke in the same vibe, but with all original content.
 
 Jokes:
 {jokes}
